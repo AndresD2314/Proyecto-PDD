@@ -1,2 +1,3 @@
 # Proyecto-PDD 
-## Integrantes Andres Duarte, Juan Manuel Aguiar
+
+## Integrantes: Andres Duarte, Juan Manuel Aguiar
