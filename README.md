@@ -11,7 +11,6 @@ El proyecto tiene como objetivo comprender la dinámica de la criminalidad en Nu
 1. [Datos](#datos)
 2. [Análisis Exploratorio](#análisis-exploratorio)
 3. [Técnicas de Aprendizaje Automático](#técnicas-de-aprendizaje-automático)
-4. [Conclusiones](#conclusiones)
 
 ## Datos
 
